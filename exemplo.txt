@@ -1,0 +1,5 @@
+arquivo de exemplo 
+
+feito algumas alterações
+
+feito alterações apos o git clone
